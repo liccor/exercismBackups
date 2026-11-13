@@ -1,2 +1,2 @@
 # exercismBackups
-minhas iterações praticadas no exercism
+minhas iterações do exercism.org
